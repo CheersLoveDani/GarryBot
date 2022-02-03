@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Where you store your tokens
+tokens.py
+
 # C extensions
 *.so
 
